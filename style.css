@@ -276,6 +276,19 @@ a {
   margin: 2rem 0rem;
   font-weight: 600;
   font-size: 1rem;
+  margin-bottom: 0.7rem;
+}
+
+.first-section .main-content .main-content__middle-block .left-middle-block a {
+  color: #f78888;
+  font-weight: 200;
+  font-size: 0.8rem;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.first-section .main-content .main-content__middle-block .left-middle-block a:hover {
+  color: #f46262;
 }
 
 @media screen and (max-width: 960px) {
@@ -581,6 +594,7 @@ a {
 .second-section .section__container .card-1 .card-bottom ul li h3 {
   font-weight: 300;
   padding-bottom: .5rem;
+  color: #f2f2f2;
 }
 
 .second-section .section__container .card-1 .card-bottom ul li p {
@@ -698,6 +712,7 @@ a {
 .second-section .section__container .card-2 .card-bottom ul li h3 {
   font-weight: 300;
   padding-bottom: .5rem;
+  color: #f2f2f2;
 }
 
 .second-section .section__container .card-2 .card-bottom ul li p {
@@ -815,6 +830,7 @@ a {
 .second-section .section__container .card-3 .card-bottom ul li h3 {
   font-weight: 300;
   padding-bottom: .5rem;
+  color: #f2f2f2;
 }
 
 .second-section .section__container .card-3 .card-bottom ul li p {
